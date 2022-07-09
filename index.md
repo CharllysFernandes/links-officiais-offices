@@ -4,9 +4,7 @@ Links oficiais para download gratuito de todas as versões do Office 2016, 2019 
 de forma oficial e original. Sem vírus e sem ativadores.
 
 
-## Office 2021
-
-### Office 2021 Professional
+### Office 2021
 
 [Office 2021 Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/pt-BR/Professional2021Retail.img)
 
@@ -19,38 +17,14 @@ de forma oficial e original. Sem vírus e sem ativadores.
 [Office 365 Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/pt-BR/O365ProPlusRetail.img)
 
 
+### Office 2019
 
+[Office 2019 Professional](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/Professional2019Retail.img)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Office 2019 Professional Plus](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/ProPlus2019Retail.img)
 
-### Office 2021
+### Office 2016
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Office 2016 Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/pt-BR/ProfessionalRetail.img)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CharllysFernandes/links-officiais-offices/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Office 2016 Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/pt-BR/ProPlusRetail.img)

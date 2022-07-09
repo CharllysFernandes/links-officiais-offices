@@ -1,4 +1,4 @@
-## Links oficiais para os pacotes office.
+## Microsoft Offices
 
 Links oficiais para download gratuito de todas as versões do Office 2016, 2019 e 2021
 de forma oficial e original. Sem vírus e sem ativadores.

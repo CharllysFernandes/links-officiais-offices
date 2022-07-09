@@ -1,11 +1,29 @@
 ## Links oficiais para os pacotes office.
 
-Links oficiais para download gratuito de todas as versões do Office 2021
+Links oficiais para download gratuito de todas as versões do Office 2016, 2019 e 2021
 de forma oficial e original. Sem vírus e sem ativadores.
+
+
+## Office 2021
+
+### Office 2021 Professional
+
+[Office 2021 Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/pt-BR/Professional2021Retail.img)
+
+[Office 2021 Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/pt-BR/ProPlus2021Retail.img)
+
+[Office 365 Home Premium](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/pt-BR/O365HomePremRetail.img)
+
+[Office 365 Business](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/pt-BR/O365BusinessRetail.img)
+
+[Office 365 Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/pt-BR/O365ProPlusRetail.img)
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Office 2021
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

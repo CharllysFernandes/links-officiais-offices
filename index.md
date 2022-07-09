@@ -1,6 +1,7 @@
 ## Links oficiais para os pacotes office.
 
-You can use the [editor on GitHub](https://github.com/CharllysFernandes/links-officiais-offices/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Links oficiais para download gratuito de todas as versões do Office 2021
+de forma oficial e original. Sem vírus e sem ativadores.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
